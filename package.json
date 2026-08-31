@@ -1,0 +1,22 @@
+{
+    "name": "com.junya005.rename-tools",
+    "version": "1.0.0",
+    "displayName": "Rename Tool",
+    "description": "選択オブジェクトの一括リネームを行うエディタツール。",
+    "unity": "2022.3",
+    "author": {
+        "name": "junya005",
+        "email": "junya005.65@gmail.com",
+        "url": "https://github.com/junya005"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/junya005/com.junya005.rename-tool.git"
+    },
+    "keywords": [
+        "editor",
+        "rename",
+        "tool"
+    ]
+}
